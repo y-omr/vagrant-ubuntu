@@ -1,7 +1,6 @@
 # Ubuntu 24.04 ARM + Docker 開発環境
 
-このリポジトリは Mac（Apple Silicon）環境で **Vagrant** を使って **VirtualBox** 上に Ubuntu 24.04 (ARM64) を構築と、  
-Docker のセットアップするための資産です。
+このリポジトリは Mac（Apple Silicon）環境で **Vagrant** を使って **VirtualBox** 上に Ubuntu 24.04 (ARM64) を構築と、Docker のセットアップするための資産です。
 
 ## 前提
 
