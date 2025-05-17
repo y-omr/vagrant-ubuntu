@@ -34,6 +34,6 @@ Ubuntu には、ssh や root 権限、ポート等に関する設定はデフォ
 
 * VM の接続解除コマンド : `exit`
 * VM の停止コマンド : `vagrant halt`
-* VM の停止コマンド : `vagrant destroy`
+* VM の削除コマンド : `vagrant destroy`
 
 Enjoy using Ubuntu and Docker!
